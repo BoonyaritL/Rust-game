@@ -1,14 +1,6 @@
 #  Space Invaders - Rust Game
 
 
-================================
-
-
-- **Rust** (เวอร์ชัน 1.56+)
-- **Cargo** (มาพร้อม Rust)
-
-
-
 **Clone repository หรือสร้างโปรเจกต์ใหม่:**
    ```bash
    cargo new space_invaders
